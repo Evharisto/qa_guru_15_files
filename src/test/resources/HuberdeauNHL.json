@@ -1,0 +1,13 @@
+{
+  "firstName": "Jonathan",
+  "lastName": "Huberdeau",
+  "age": 29,
+  "isPlaying": true,
+  "teams": ["Florida", "Calgary"],
+  "playingCareer": {
+    "team": "Florida",
+    "games": 671,
+    "goals": 198,
+    "contractUntil": "03.08.2022"
+  }
+}
